@@ -73,5 +73,4 @@ Overall, the screenshots demonstrate how the application behaves under simulated
 Output
 ![Image](https://github.com/user-attachments/assets/6ecd33d5-fb4c-40e9-a1a8-7b1248988310)
 
-![Imag(https://gite]hub.com![/user-attachments/assets/e6b38b3c-e513-4b0b-b18f-4a7f7d96f201)
-![Imag(https://gite]hub.com![/user-attachments/assets/e6b38b3c-e513-4b0b-b18f-4a7f7d96f201)
+![Image](https://github.com/user-attachments/assets/52224181-bdbe-4755-adba-4f941d8f29d8)
