@@ -71,3 +71,6 @@ The Active Users graph shows how virtual users were gradually added, maintained,
 The Response Time Distribution chart helps analyze how response times are spread across different ranges.
 Overall, the screenshots demonstrate how the application behaves under simulated heavy load conditions and help identify performance issues.
 Output
+![Image](https://github.com/user-attachments/assets/6ecd33d5-fb4c-40e9-a1a8-7b1248988310)
+
+![Imag(https://gite]hub.com![/user-attachments/assets/e6b38b3c-e513-4b0b-b18f-4a7f7d96f201)
